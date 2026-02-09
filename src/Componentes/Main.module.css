@@ -1,0 +1,16 @@
+.containerMain{
+    max-width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+.containerMain div{
+    max-width: 60%;
+    margin:10px 5px;
+    background:rgb(255,255,255,0.15);
+    backdrop-filter: blur(2px);
+    border-radius: 5px;
+    text-shadow: 1px 1px 1px #ffffff;
+    padding:8px;
+}
