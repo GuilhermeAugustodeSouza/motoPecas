@@ -3,7 +3,7 @@ import estilos from './BotaoWhatsapp.module.css';
 export default function BotaoWhatsapp() {
   return (
     <a
-      href="https://wa.me/5531987049074?text=Olá!%20Gostaria%20de%20um%20orçamento."
+      href="https://wa.me/5531994096814?text=Olá!%20Gostaria%20de%20um%20orçamento."
       target="_blank"
       rel="noopener noferrer"
       className={estilos.whatsapp}
